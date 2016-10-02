@@ -1,0 +1,278 @@
+{
+  "gamedev": {
+    "software": [
+      {
+        "title": "Scratch.MIT.edu",
+        "url": "http://scratch.mit.edu",
+        "text": "Simple 2D game design. Great for learning the basics, though usually the product you produce isn't as cool looking as what other tools would let you make. Plug 'n' play style coding, not quite the same as writing your own code, but a good starting place."
+      },
+      {
+        "title": "Alice.org",
+        "url": "http://alice.org",
+        "text": "Simple 3D game design. Teaches programming logic and concepts using Plug 'n' play style coding."
+      }
+    ],
+    "links": [
+      {
+        "title": "Extra-Credits.net",
+        "url": "http://extra-credits.net/",
+        "text": "If you have any interest in working in the video game industry, do yourself a favor and watch EVERY episode of this show. It's a 6 minute weekly cartoon that discusses every aspect of video games and the games industry."
+      },
+      {
+        "title": "Developer Valve Software",
+        "url": "https://developer.valvesoftware.com/wiki/Main_Page",
+        "text": "Great resource for learning about game development and modding using Valve's Source engine (used in Half-Life 2, Portal 2, Team Fortress 2, Left 4 Dead, etc)."
+      }
+    ]
+  },
+  "graphics": {
+    "paths": [
+      {
+        "title": "Digital Photography",
+        "text": "Photoshop, Light Room"
+      },
+      {
+        "title": "Photo Manipulation",
+        "text": "Photoshop & Photoshop Plugins"
+      },
+      {
+        "title": "Digital Painting",
+        "text": "Corel Painter, Photoshop"
+      },
+      {
+        "title": "Photo Touch Up",
+        "text": "Photoshop"
+      },
+      {
+        "title": "Photo Restoration",
+        "text": "Photoshop"
+      }
+    ],
+    "terminology": [
+      {
+        "title": "2D Terms",
+        "text": "Raster, Bitmap, canvas, layers, gradient, alpha, channels, curves, hue, levels, histogram, exif, photo RAW, lossless, lossy"
+      },
+      {
+        "title": "Vector Terms",
+        "text": "Vector, path, anchor point, bezier curve, compound path, clipping mask"
+      },
+      {
+        "title": "Animation Terms",
+        "text": "Onion Skin, Pre-Comp, Squash & Stretch, keyframes, velocity, easing, frame rate, previsualization, storyboard"
+      },
+      {
+        "title": "3D Terms",
+        "text": "Polygonal Mesh, NURBS, Subdivision Surface, Voxel, Subsurface scattering, render, refraction, bump map, texture, radiosity, raytrace"
+      },
+      {
+        "title": "Video Terms",
+        "text": "codec, wrapper, cut, lower thirds, b-roll, jump cut, encoding, bitrate, title safe"
+      }
+    ],
+    "resources": [
+      {
+        "title": "Lynda.com",
+        "url": "http://lynda.com",
+        "text": "The most comprehensive resource for learning software. Not free however. Watch the series for whatever software interested you from the above list."
+      },
+      {
+        "title": "Revision3.com/PixelPerfect",
+        "url": "http://revision3.com/pixelperfect",
+        "text": "Photoshop lessons from a Photoshop Hall of Fame master (less than 30 people in the world have been given this title by Adobe). Designed for complete beginners."
+      }
+    ],
+    "software": [
+      {
+        "title": "Krita",
+        "url": "http://krita.org",
+        "text": "Krita is the spiritual successor to the long outdated GIMP project. It's an open source image editor and the closest thing you can get to Photoshop for free. Though it's not as powerful. Still though, for learning the basics, this is not a bad place to start."
+      }
+    ]
+  },
+  "web": {
+    "terminology": [
+      {
+        "title": "2D Terms",
+        "text": "Raster, Bitmap, canvas, layers, gradient, alpha, channels, curves, hue, levels, histogram, exif, photo RAW, lossless, lossy"
+      },
+      {
+        "title": "Vector Terms",
+        "text": "Vector, path, anchor point, bezier curve, compound path, clipping mask"
+      },
+      {
+        "title": "Animation Terms",
+        "text": "Onion Skin, Pre-Comp, Squash & Stretch, keyframes, velocity, easing, frame rate, previsualization, storyboard"
+      },
+      {
+        "title": "3D Terms",
+        "text": "Polygonal Mesh, NURBS, Subdivision Surface, Voxel, Subsurface scattering, render, refraction, bump map, texture, radiosity, raytrace"
+      },
+      {
+        "title": "Video Terms",
+        "text": "codec, wrapper, cut, lower thirds, b-roll, jump cut, encoding, bitrate, title safe"
+      }
+    ],
+    "software": [
+      {
+        "title": "Krita",
+        "url": "http://krita.org",
+        "text": "Krita is the spiritual successor to the long outdated GIMP project. It's an open source image editor and the closest thing you can get to Photoshop for free. Though it's not as powerful. Still though, for learning the basics, this is not a bad place to start."
+      }
+    ],
+    "links": [
+      {
+        "title": "Extra-Credits.net",
+        "url": "http://extra-credits.net/",
+        "text": "If you have any interest in working in the video game industry, do yourself a favor and watch EVERY episode of this show. It's a 6 minute weekly cartoon that discusses every aspect of video games and the games industry."
+      },
+      {
+        "title": "Developer Valve Software",
+        "url": "https://developer.valvesoftware.com/wiki/Main_Page",
+        "text": "Great resource for learning about game development and modding using Valve's Source engine (used in Half-Life 2, Portal 2, Team Fortress 2, Left 4 Dead, etc)."
+      }
+    ]
+  },
+  "programming": {
+    "languages": {
+      "java": [
+        {
+          "title": "NodeJS",
+          "url": "http://nodejs.org",
+          "text": "Node allows you to write JavaScript outside of a browser. It has become a very popular server-side language for websites and is also used for cross-platform desktop application development using NW.JS (nwjs.io)."
+        },
+        {
+          "title": "Processing",
+          "url": "http://processing.org",
+          "text": "This is a language that's meant to quickly create visual elements from code. It's less about a functional end product, and more about visualizing data, or sketching an idea with code."
+        },
+        {
+          "title": "SQLBolt",
+          "url": "http://sqlbolt.com",
+          "text": "When it comes to working with databases SQL (pronounced 'Sequel') is very common. There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. SQLBolt does a fantastic job introducing you to these concepts"
+        }
+      ],
+      "python": [
+        {
+          "title": "NodeJS",
+          "url": "http://nodejs.org",
+          "text": "Node allows you to write JavaScript outside of a browser. It has become a very popular server-side language for websites and is also used for cross-platform desktop application development using NW.JS (nwjs.io)."
+        },
+        {
+          "title": "Processing",
+          "url": "http://processing.org",
+          "text": "This is a language that's meant to quickly create visual elements from code. It's less about a functional end product, and more about visualizing data, or sketching an idea with code."
+        },
+        {
+          "title": "SQLBolt",
+          "url": "http://sqlbolt.com",
+          "text": "When it comes to working with databases SQL (pronounced 'Sequel') is very common. There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. SQLBolt does a fantastic job introducing you to these concepts"
+        }
+      ],
+      "ruby": [
+        {
+          "title": "NodeJS",
+          "url": "http://nodejs.org",
+          "text": "Node allows you to write JavaScript outside of a browser. It has become a very popular server-side language for websites and is also used for cross-platform desktop application development using NW.JS (nwjs.io)."
+        },
+        {
+          "title": "Processing",
+          "url": "http://processing.org",
+          "text": "This is a language that's meant to quickly create visual elements from code. It's less about a functional end product, and more about visualizing data, or sketching an idea with code."
+        },
+        {
+          "title": "SQLBolt",
+          "url": "http://sqlbolt.com",
+          "text": "When it comes to working with databases SQL (pronounced 'Sequel') is very common. There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. SQLBolt does a fantastic job introducing you to these concepts"
+        }
+      ],
+      "php": [
+        {
+          "title": "NodeJS",
+          "url": "http://nodejs.org",
+          "text": "Node allows you to write JavaScript outside of a browser. It has become a very popular server-side language for websites and is also used for cross-platform desktop application development using NW.JS (nwjs.io)."
+        },
+        {
+          "title": "Processing",
+          "url": "http://processing.org",
+          "text": "This is a language that's meant to quickly create visual elements from code. It's less about a functional end product, and more about visualizing data, or sketching an idea with code."
+        },
+        {
+          "title": "SQLBolt",
+          "url": "http://sqlbolt.com",
+          "text": "When it comes to working with databases SQL (pronounced 'Sequel') is very common. There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. SQLBolt does a fantastic job introducing you to these concepts"
+        }
+      ],
+      "swift": [
+        {
+          "title": "NodeJS",
+          "url": "http://nodejs.org",
+          "text": "Node allows you to write JavaScript outside of a browser. It has become a very popular server-side language for websites and is also used for cross-platform desktop application development using NW.JS (nwjs.io)."
+        },
+        {
+          "title": "Processing",
+          "url": "http://processing.org",
+          "text": "This is a language that's meant to quickly create visual elements from code. It's less about a functional end product, and more about visualizing data, or sketching an idea with code."
+        },
+        {
+          "title": "SQLBolt",
+          "url": "http://sqlbolt.com",
+          "text": "When it comes to working with databases SQL (pronounced 'Sequel') is very common. There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. SQLBolt does a fantastic job introducing you to these concepts"
+        }
+      ],
+      "other": [
+        {
+          "title": "NodeJS",
+          "url": "http://nodejs.org",
+          "text": "Node allows you to write JavaScript outside of a browser. It has become a very popular server-side language for websites and is also used for cross-platform desktop application development using NW.JS (nwjs.io)."
+        },
+        {
+          "title": "Processing",
+          "url": "http://processing.org",
+          "text": "This is a language that's meant to quickly create visual elements from code. It's less about a functional end product, and more about visualizing data, or sketching an idea with code."
+        },
+        {
+          "title": "SQLBolt",
+          "url": "http://sqlbolt.com",
+          "text": "When it comes to working with databases SQL (pronounced 'Sequel') is very common. There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. SQLBolt does a fantastic job introducing you to these concepts"
+        }
+      ]
+    },
+    "comparisons": [
+      {
+        "title": "PHP/Python/Ruby Infograph",
+        "text": "<a href='http://imgur.com/Aa9IoOR'>imgur.com/Aa9IoOR</a>"
+      },
+      {
+        "title": "Wikipedia's 'Hello World' comparison",
+        "text": "<a href='http://wikipedia.org/wiki/List_of_Hello_world_program_examples'>wikipedia.org/wiki/List_of_Hello_world_program_examples</a>'"
+      },
+      {
+        "title": "Python Vs Ruby",
+        "text": "<a href='http://c2.com/cgi/wiki?PythonVsRuby'>c2.com/cgi/wiki?PythonVsRuby</a>"
+      },
+      {
+        "title": "LangPop.com",
+        "url": "http://langpop.com",
+        "text": "Language popularity comparison using several measurements."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Free Code Camp",
+        "url": "http://freecodecamp.com",
+        "text": "The best!"
+      },
+      {
+        "title": "PluralSight.com",
+        "url": "http://pluralsight.com",
+        "text": "Great site for learning details of programming languages. Used by professional developers."
+      },
+      {
+        "title": "TeamTreehouse.com",
+        "url": "http://teamtreehouse.com",
+        "text": "Great for web designers and developers. The best site for learning the fundamentals of HTML, CSS, Responsive Web Design, and Ruby. Free trial, <a href='https://teamtreehouse.com/support'>$9/month for students.</a>"
+      }
+    ]
+  }
+}

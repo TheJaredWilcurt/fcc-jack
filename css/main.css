@@ -1,0 +1,38 @@
+/* ==========================================================================
+   Author's custom styles
+========================================================================== */
+body {font-family: 'Roboto', sans-serif;font-size: 16px;}
+
+.cardItem {
+}
+.cardItem h2 {
+    background: url('../img/KnowJack_Card-Red_01.gif') top center no-repeat;
+    height: 120px;
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+    padding: 30px 0px 0px 0px;
+    margin: 0px;
+    text-shadow: 0px 0px 10px rgba(255,255,255,1);
+}
+.cardContent {
+    display: none;
+    background-image: url('../img/KnowJack_Card-Red_02.gif');
+    background-repeat: repeat-y;
+    background-position: 0px 0px;
+    padding: 0px 62px 0px 74px;
+}
+.cardContent ul {
+    padding-left: 20px;
+}
+.cardContent ul a {
+    color: #FAA;
+}
+.bannerFooter {
+    height: 100px;
+    padding:0px;
+    background-image: url('../img/KnowJack_Card-Red_03.gif');
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+.cardDesc {
+}
